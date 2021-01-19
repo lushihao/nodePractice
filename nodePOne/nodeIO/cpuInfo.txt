@@ -1,0 +1,68 @@
+[
+    {
+        "model": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+        "speed": 3696,
+        "times": {
+            "user": 12293421,
+            "nice": 0,
+            "sys": 6592906,
+            "idle": 102424562,
+            "irq": 2445109
+        }
+    },
+    {
+        "model": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+        "speed": 3696,
+        "times": {
+            "user": 25423640,
+            "nice": 0,
+            "sys": 3687390,
+            "idle": 92199687,
+            "irq": 76843
+        }
+    },
+    {
+        "model": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+        "speed": 3696,
+        "times": {
+            "user": 16217109,
+            "nice": 0,
+            "sys": 2517640,
+            "idle": 102575984,
+            "irq": 52281
+        }
+    },
+    {
+        "model": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+        "speed": 3696,
+        "times": {
+            "user": 17154859,
+            "nice": 0,
+            "sys": 3391921,
+            "idle": 100763937,
+            "irq": 81140
+        }
+    },
+    {
+        "model": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+        "speed": 3696,
+        "times": {
+            "user": 15019187,
+            "nice": 0,
+            "sys": 3499421,
+            "idle": 102792093,
+            "irq": 62046
+        }
+    },
+    {
+        "model": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+        "speed": 3696,
+        "times": {
+            "user": 13720578,
+            "nice": 0,
+            "sys": 3086734,
+            "idle": 104503406,
+            "irq": 75359
+        }
+    }
+]
